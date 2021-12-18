@@ -5,6 +5,10 @@
 
 
 
+(아래의 내용은 OpenBot 오픈소스에서 Openbot 활용방법 등을 알려주는 문서 내용입니다)
+
+## OpenBot README.md content
+
 <a href="https://www.openbot.org/" target="_blank">
   <img align="center" alt="Banner" width="100%" src="docs/images/banner.jpg" />
 </a>
