@@ -88,3 +88,11 @@ Please cite our [paper](https://arxiv.org/abs/2008.10631) if you use OpenBot.
 <a href="https://www.openbot.org//" target="_blank">
   <img align="center" alt="Footer" width="100%" src="docs/images/footer.gif" />
 </a>
+
+
+
+# 산학협력프로젝트2 - 팀620
+
++ [620팀 프로젝트 : 스마또봇(OpenBot 오픈 소스 활용) PPT](./doc/620_프로젝트 최종결과.pptx)
++ [620팀 프로젝트 : 스마또봇(OpenBot 오픈 소스 활용) 결과물 동영상](./doc/620_finalversion_video.mp4)
+
